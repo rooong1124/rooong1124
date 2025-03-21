@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+:U+1F44D:
+
 <!--
 **rooong1124/rooong1124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
